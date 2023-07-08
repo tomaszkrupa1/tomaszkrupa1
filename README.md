@@ -3,8 +3,8 @@
 
 [![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://youtu.be/1ov1HZZKPJA)
 
-[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<VIDEO_ID>)
+[<img src="https://youtu.be/1ov1HZZKPJA" width="600" height="300"
+/>](https://youtu.be/1ov1HZZKPJA)
 
 
 - 🔭 I’m currently working on **Highstreet Marketplace**
