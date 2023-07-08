@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tomasz</h1>
 <h3 align="center">A designer and fullstack developer from the UK</h3>
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://youtu.be/1ov1HZZKPJA)
 
-[<img src="https://youtu.be/1ov1HZZKPJA" width="600" height="300"
-/>](https://youtu.be/1ov1HZZKPJA)
+
+https://github.com/tomaszkrupa1/tomaszkrupa1/assets/115810588/441713b1-cc8d-48b7-b38f-e18a8ab81829
+
 
 
 - 🔭 I’m currently working on **Highstreet Marketplace**
